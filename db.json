@@ -1,0 +1,64 @@
+{
+    "hotels": [
+        {
+            "id": 0,
+            "name": "Comfort Margonda Residence 3 Apartement",
+            "city": "Depok",
+            "country": "Indonesia",
+            "price": 300000,
+            "image_url": "https://pix10.agoda.net/hotelImages/257/2571925/2571925_17072515490054663059.jpg?ca=6&ce=1&s=1024x768",
+            "rating": 4,
+            "address": "Jl. Margonda Raya No.Kav. 88, Kemiri Muka, Kecamatan Beji, Kota Depok, Jawa Barat 16423",
+            "phone": "0812-9166-1711",
+            "map_url": "https://goo.gl/maps/JjRd2vBE6NbycMmU6",
+            "photos": [
+                "https://cdn.travelio.id/building/a4a3a-5992bd0173751b20ffd1d692/margonda-residence-4-1116-29-of-32-_l.jpg",
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268898973.jpg?k=e9e45e80e9b9e3a434c03e98182896dcb61f83a11e08e2dda92f4dc8da1bdaca&o=&hp=1",
+                "https://origin.pegipegi.com/jalan/images/pict1L/Y0/Y985370/Y985370002.jpg"
+            ],
+            "number_of_kitchens": 1,
+            "number_of_bedrooms": 1,
+            "number_of_cupboards": 1
+          },
+          {
+            "id": 1,
+            "name": "Kemang Village Jakarta",
+            "city": "Jakarta",
+            "country": "Indonesia",
+            "price": 450000,
+            "image_url": "https://static-id.lamudi.com/static/media/bm9uZS9ub25l/1000x620/a79d209731c248.jpg",
+            "rating": 4,
+            "address": " Kemang Prapanca Jl. Pangeran Antasari No.36, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",
+            "phone": "0812-1806-3005",
+            "map_url": "https://goo.gl/maps/suJCegefXANWtTsDA",
+            "photos": [
+                "https://images.trvl-media.com/hotels/54000000/53420000/53418500/53418477/d2be8c24_z.jpg",
+                "https://images.trvl-media.com/hotels/49000000/48980000/48975300/48975249/22bf74eb_z.jpg",
+                "https://images.trvl-media.com/hotels/54000000/53420000/53418500/53418477/3212e8c6_z.jpg"
+            ],
+            "number_of_kitchens": 1,
+            "number_of_bedrooms": 1,
+            "number_of_cupboards": 1
+          },
+          {
+            "id": 2,
+            "name": "Evenciio Apartment",
+            "city": "Depok",
+            "country": "Indonesia",
+            "price": 300000,
+            "image_url": "https://s3-ap-southeast-1.amazonaws.com/f1-static/dekohouse/property/real-estate/PPRO-EVCO/tower/apartemen-evenciio-margonda-depok-tower-1.jpg",
+            "rating": 4,
+            "address": "Jl. Margonda Raya No.508, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+            "phone": "0813-1899-1212",
+            "map_url": "https://goo.gl/maps/h3s922f2LiCoaFYL6",
+            "photos": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293350153.jpg?k=ea5888f1f781ffee1c607575ceffc5d39c47d151b829af5fa5ae7db719431d5c&o=&hp=1",
+                "https://cdn.travelio.id/hotel/61501-614d3ca07be1491c7d9345de/DSCF2324_l.jpg",
+                "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/01/31/f6f22d6a-eab4-460d-bcde-374fd60a6d37-1643630719974-af1a46bad2223ef5c397866675d2d13b.jpg"
+            ],
+            "number_of_kitchens": 1,
+            "number_of_bedrooms": 1,
+            "number_of_cupboards": 1
+          }
+    ]
+}
